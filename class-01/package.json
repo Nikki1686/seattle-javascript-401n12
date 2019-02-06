@@ -1,0 +1,17 @@
+{
+  "name": "node-ecosystem",
+  "version": "1.0.0",
+  "description": "lab1 node ecosystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ncarthen",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  },
+  "dependencies": {
+    "eslintrc": "^1.0.6"
+  }
+}
